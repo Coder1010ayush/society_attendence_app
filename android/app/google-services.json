@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "833888073406",
+    "firebase_url": "https://attendence-app-62faf-default-rtdb.firebaseio.com",
+    "project_id": "attendence-app-62faf",
+    "storage_bucket": "attendence-app-62faf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833888073406:android:bc405a5b133e046e6510ef",
+        "android_client_info": {
+          "package_name": "com.estate.attend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHuWXwvv9y-6VqjbzfDgLfMepPkgk094"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
