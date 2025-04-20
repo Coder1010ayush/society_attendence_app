@@ -20,13 +20,13 @@ Employees have limited access focused solely on managing their own attendance re
 * **Mark Attendance:** A simple and intuitive way for employees to mark their daily attendance (e.g., clock-in).
 * **View Last Month's Attendance:** Employees can view their attendance records for the preceding one-month period.
 
-## Technology Stack (Example - To be filled based on actual implementation)
+## Technology Stack 
 
 * **Frontend:** [Flutter]
 * **Backend:** [Flutter]
 * **Database:** [Firebase]
 
-## Setup Instructions (Example - To be filled based on actual implementation)
+## Setup Instructions 
 
 1.  **Clone the repository:** `git clone git@github.com:Coder1010ayush/society_attendence_app.git`
 2.  **Navigate to the project directory:** `cd attendence_app`
